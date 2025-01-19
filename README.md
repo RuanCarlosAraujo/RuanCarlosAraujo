@@ -36,6 +36,6 @@
 ## ⚡ GitHub Stats
 <div style="display: flex; justify-content: center; gap: 10px 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=RuanCarlosAraujo&theme=midnight-purple&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarlosAraujo&theme=midnight-purple&hide=TeX&layout=compact&langs_count=8" height="190px"; width="400px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarlosAraujo&theme=midnight-purple&hide=TeX&layout=compact&langs_count=8" height="180px"; width="400px">
 </div>
 </div>
